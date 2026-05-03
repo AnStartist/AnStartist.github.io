@@ -1,0 +1,1 @@
+System.register(["./BitmapFont-legacy-bIJzKi9h.js"],function(t,e){var n;return{setters:[function(t){n=t.t}],execute:function(){t("BitmapFont",n)}}});

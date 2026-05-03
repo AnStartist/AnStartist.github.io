@@ -1,0 +1,1 @@
+System.register(["./WebGLRenderer-legacy-BuVAlzW8.js"],function(e,r){var t;return{setters:[function(e){t=e.t}],execute:function(){e("WebGLRenderer",t)}}});

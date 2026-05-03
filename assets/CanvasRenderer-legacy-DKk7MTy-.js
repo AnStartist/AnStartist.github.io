@@ -1,0 +1,1 @@
+System.register(["./CanvasRenderer-legacy-BauxbSxJ.js"],function(e,n){var r;return{setters:[function(e){r=e.t}],execute:function(){e("CanvasRenderer",r)}}});

@@ -1,0 +1,1 @@
+System.register(["./WebGPURenderer-legacy-BVnkenYB.js"],function(e,r){var t;return{setters:[function(e){t=e.t}],execute:function(){e("WebGPURenderer",t)}}});
