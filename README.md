@@ -1,3 +1,7 @@
+A Dance Of Pixi and An
+冰与火之舞自制播放器
+adofan / adofan pixi
+
 Please Run CMD or Terminal.
 Input 'npx serve' or 'http-server' in this directory.
 Or use Python to hold a server , input 'python -m http.server 8000' in cmd in this directory.
